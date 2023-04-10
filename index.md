@@ -2,6 +2,9 @@
 layout: default
 ---
 
+**BACKGROUND**
+Ever since the world population started growing at a rapid space, there has been a need for faster and newer technologies, these population also need to be fed because we do not have increasing lands, therefore there was a need to improve on existing agricultural methods. One of the ways we increased agricultural yield significantly was by the advent of nitrogen fertilizers. Though these fertilizer has increased our yield significantly over the years, recent studies have discovered that most of the nitrogen fertilizer applied to the field leaches into the surface water bodies which causes polluiton. Therefore there is a need to quantify the amount of nitrate load that leaches into surface water bodies.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
