@@ -23,11 +23,26 @@ Quantifying the amount on nitrate that leaches into surface water bodies will he
 **Figure 2** shows the loss of auqtic life as a result of nitrate pollution
 
 
+
+* * *
 ### Factors contributing to nitrate pollution to surface water bodies
 *   Nitrogen surplus
 *   Precipitation
 *   Streamflow
 
+
+* * *
+### **ANALYSIS**
+Measuring nitrate concentration is very expensive and labor intensive so there are very little gauges that measure nitrate concentration across the state of Iowa, therefore this analysis seeks to investigate this factors affecting nitrate concentration in a region rich in data. The results of this analysis will use the relationship between contributing factors help predict nitrate concentration in areas where there no gauges.
+
+# Correlation between streamflow and concentration 
+To understand the relationship between streamflow and nitrogen concentration, we calculate the correlation between these two parameters
+
+```js
+// Python code calculating correlation between streamflow and Nitrate concentration at north racoon river at Sac city.
+correlation = np.corrcoef(flow["streamflow"], concentration["nitrate"])[0, 1]
+print("The correlation coefficient between streamflow and concentration is", correlation)
+```
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
