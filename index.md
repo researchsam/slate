@@ -98,7 +98,7 @@ end
 
 ### Small image
 
-![Octocat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsciencing.com%2Fabout-6399940-effect-water-pollution-land.html&psig=AOvVaw1nIe5uGJlyzuk-OhVa1v8O&ust=1682880675977000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJj0k5nhz_4CFQAAAAAdAAAAABAE.png)
+![Octocat](https://img-aws.ehowcdn.com/877x500p/s3-us-west-1.amazonaws.com/contentlab.studiod/getty/f156a8535b7844d3996689ec37292370.jpg?type=webp)
 
 ### Large image
 
