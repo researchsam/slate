@@ -16,6 +16,7 @@ Quantifying the amount on nitrate that leaches into surface water bodies will he
 ### Water Pollution 
 
 ![Octocat](https://img-aws.ehowcdn.com/877x500p/s3-us-west-1.amazonaws.com/contentlab.studiod/getty/f156a8535b7844d3996689ec37292370.jpg?type=webp)
+![dead fishes](https://www.iwla.org/images/default-source/conservation/water/nitrate-watch/algal-bloom---credit-getty-images.png?sfvrsn=745b9a0d_2)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
