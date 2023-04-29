@@ -4,7 +4,13 @@ layout: default
 
 **BACKGROUND**
 
-Ever since the world population started growing at a rapid space, there has been a need for faster and newer technologies, these population also need to be fed because we do not have increasing lands, therefore there was a need to improve on existing agricultural methods. One of the ways we increased agricultural yield significantly was by the advent of nitrogen fertilizers. Though these fertilizer has increased our yield significantly over the years, recent studies have discovered that most of the nitrogen fertilizer applied to the field leaches into the surface water bodies which causes polluiton. Therefore there is a need to quantify the amount of nitrate load that leaches into surface water bodies.
+As the world population has grown rapidly, there has been a need for faster and newer technologies to feed the people. One way to increase agricultural yield is to use nitrogen fertilizers. However, recent studies have shown that most of the nitrogen fertilizer applied to fields leaches into surface water bodies, causing pollution. Therefore, it is important to quantify the amount of nitrate load that leaches into surface water bodies.
+
+
+This is important because nitrate pollution can have a number of negative impacts on human health and the environment. For example, nitrate pollution can contaminate drinking water, leading to health problems such as methemoglobinemia (blue baby syndrome) in infants. Nitrate pollution can also harm aquatic ecosystems, leading to algae blooms and fish kills.
+
+
+Quantifying the amount on nitrate that leaches into surface water bodies will help policymakers, scientists, and the general public. Policymakers can use this information to make decisions about agricultural practices and water quality regulations. Scientists can use this information to study the impacts of nitrate pollution on human health and the environment. The general public can use this information to make informed decisions about their own health and the health of their environment.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
