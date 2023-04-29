@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**BACKGROUND**
+### **BACKGROUND**
 
 As the world population has grown rapidly, there has been a need for faster and newer technologies to feed the people. One way to increase agricultural yield is to use nitrogen fertilizers. However, recent studies have shown that most of the nitrogen fertilizer applied to fields leaches into surface water bodies, causing pollution. Therefore, it is important to quantify the amount of nitrate load that leaches into surface water bodies.
 
@@ -17,6 +17,7 @@ Quantifying the amount on nitrate that leaches into surface water bodies will he
 
 ![Octocat](https://img-aws.ehowcdn.com/877x500p/s3-us-west-1.amazonaws.com/contentlab.studiod/getty/f156a8535b7844d3996689ec37292370.jpg?type=webp)
 **Figure 1** shows nitrate being deliverd into surface water through drain pipes
+
 
 ![dead fishes](https://www.iwla.org/images/default-source/conservation/water/nitrate-watch/algal-bloom---credit-getty-images.png?sfvrsn=745b9a0d_2)
 **Figure 2** shows the loss of auqtic life as a result of nitrate pollution
