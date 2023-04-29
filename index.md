@@ -22,6 +22,14 @@ Quantifying the amount on nitrate that leaches into surface water bodies will he
 ![dead fishes](https://www.iwla.org/images/default-source/conservation/water/nitrate-watch/algal-bloom---credit-getty-images.png?sfvrsn=745b9a0d_2)
 **Figure 2** shows the loss of auqtic life as a result of nitrate pollution
 
+
+### Factors contributing to nitrate pollution to surface water bodies
+*   Nitrogen surplus
+*   Precipitation
+*   Streamflow
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
