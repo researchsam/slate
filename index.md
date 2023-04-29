@@ -32,10 +32,10 @@ Quantifying the amount on nitrate that leaches into surface water bodies will he
 
 
 * * *
-### **ANALYSIS**
+# **ANALYSIS**
 Measuring nitrate concentration is very expensive and labor intensive so there are very little gauges that measure nitrate concentration across the state of Iowa, therefore this analysis seeks to investigate this factors affecting nitrate concentration in a region rich in data. The results of this analysis will use the relationship between contributing factors help predict nitrate concentration in areas where there no gauges.
 
-# Correlation between streamflow and concentration 
+## Correlation between streamflow and concentration 
 To understand the relationship between streamflow and nitrogen concentration, we calculate the correlation between these two parameters
 
 ```js
@@ -43,6 +43,13 @@ To understand the relationship between streamflow and nitrogen concentration, we
 correlation = np.corrcoef(flow["streamflow"], concentration["nitrate"])[0, 1]
 print("The correlation coefficient between streamflow and concentration is", correlation)
 ```
+The correlation coefficient between streamflow and concentration is 0.08838032193146401
+
+### Interpretation
+A correlation coefficient of 0.088 is very weak, so it is unlikely that linear regression would be able to accurately predict concentration from streamflow.
+
+
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
