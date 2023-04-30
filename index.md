@@ -22,6 +22,11 @@ Quantifying the amount on nitrate that leaches into surface water bodies will he
 ![dead fishes](https://www.iwla.org/images/default-source/conservation/water/nitrate-watch/algal-bloom---credit-getty-images.png?sfvrsn=745b9a0d_2)
 **Figure 2** shows the loss of auqtic life as a result of nitrate pollution
 
+![drinking](https://www.borgenmagazine.com/wp-content/uploads/2014/01/African-Diseases.jpg)
+**Figure 3** Direct drinking of water from surface water
+
+
+
 
 
 * * *
@@ -49,9 +54,41 @@ The correlation coefficient between streamflow and concentration is 0.0883803219
 A correlation coefficient of 0.088 is very weak, so it is unlikely that linear regression would be able to accurately predict concentration from streamflow.
 
 ### Visual Representation
-![correlation](https://www.bing.com/images/blob?bcid=rJCf8bCo-IkF-Q) 
+![correlation](https://www.bing.com/images/blob?bcid=rJCf8bCo-IoFPg) 
 
 The coefficient of determination(R2) is 0.007811081304709219
+
+
+* * *
+# **DISCUSSIONS**
+
+## Generally weak relationship between all combinations
+
+* Correlation does not equal causation
+
+## Natural events uncertainties
+
+### Handling missing data
+
+* Dropping missing rows might impact results significantly
+* Larger sample set needed to take average
+
+
+### Flow irregularities
+
+* Baseflow and quickflow can significantly affect timing and transport of nitrate
+
+
+### Point source contribution
+
+* Investigation of drainage area for potential industry exporting nitrate waste
+
+
+
+
+
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
