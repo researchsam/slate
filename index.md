@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-###  Website: <a href = "https://researchsam.github.io/slate/">
+###  Website: <a href = "https://researchsam.github.io/slate/" /a>
 ### **BACKGROUND**
 
 As the world population has grown rapidly, there has been a need for faster and newer technologies to feed the people. One way to increase agricultural yield is to use nitrogen fertilizers. However, recent studies have shown that most of the nitrogen fertilizer applied to fields leaches into surface water bodies, causing pollution. Therefore, it is important to quantify the amount of nitrate load that leaches into surface water bodies.
