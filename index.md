@@ -89,7 +89,7 @@ The coefficient of determination (R2) is 0.007811081304709219
 ## GROUPING INTO HIGH AND LOW CONCENTRATION
 <img src="cluster.png" alt="Cluster image">
 
-
+### The high spots are locations that have nitrate concentration greater than 10mg/L. This is usefull to easily indentify hotspot areas for decision/polycy makers to takle instead of analyzing the entire locations again, this process is important as it saves time in reusability of the code. 
 
 
 
