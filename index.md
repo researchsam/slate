@@ -54,7 +54,6 @@ The correlation coefficient between streamflow and concentration is 0.0883803219
 A correlation coefficient of 0.088 is very weak, so it is unlikely that linear regression would be able to accurately predict concentration from streamflow.
 
 ### Visual Representation
-![correlation](https://www.bing.com/images/blob?bcid=rJCf8bCo-IoFPg) 
 <img src="scatter.png" alt="Example image">
 
 The coefficient of determination(R2) is 0.007811081304709219
