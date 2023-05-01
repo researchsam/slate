@@ -86,7 +86,7 @@ The coefficient of determination (R2) is 0.007811081304709219
 * Investigation of drainage area for potential industry exporting nitrate waste
 
 
-# GROUPING INTO HIGH AND LOW CONCENTRATION
+## GROUPING INTO HIGH AND LOW CONCENTRATION
 <img src="cluster.png" alt="Cluster image">
 
 
