@@ -56,7 +56,9 @@ A correlation coefficient of 0.088 is very weak, so it is unlikely that linear r
 ### Visual Representation
 <img src="scatter.png" alt="Example image">
 
-The coefficient of determination(R2) is 0.007811081304709219
+The coefficient of determination (R2) is 0.007811081304709219
+
+
 
 
 * * *
@@ -84,7 +86,8 @@ The coefficient of determination(R2) is 0.007811081304709219
 * Investigation of drainage area for potential industry exporting nitrate waste
 
 
-
+# GROUPING INTO HIGH AND LOW CONCENTRATION
+<img src="cluster.png" alt="Cluster image">
 
 
 
