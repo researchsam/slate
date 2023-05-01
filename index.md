@@ -23,22 +23,23 @@ Quantifying the amount on nitrate that leaches into surface water bodies will he
 **Figure 2** shows the loss of auqtic life as a result of nitrate pollution
 
 ![drinking](https://www.borgenmagazine.com/wp-content/uploads/2014/01/African-Diseases.jpg)
-**Figure 3** Direct drinking of water from surface water
+**Figure 3** Direct drinking from surface water
 
 
 
 
 
 * * *
+# **ANALYSIS**
+Measuring nitrate concentration is very expensive and labor intensive so there are very little gauges that measure nitrate concentration across the state of Iowa, therefore this analysis seeks to investigate this factors affecting nitrate concentration in a region rich in data. The results of this analysis will use the relationship between contributing factors help predict nitrate concentration in areas where there no gauges.
+
+
 ### Factors contributing to nitrate pollution to surface water bodies
 *   Nitrogen surplus
 *   Precipitation
 *   Streamflow
 
 
-* * *
-# **ANALYSIS**
-Measuring nitrate concentration is very expensive and labor intensive so there are very little gauges that measure nitrate concentration across the state of Iowa, therefore this analysis seeks to investigate this factors affecting nitrate concentration in a region rich in data. The results of this analysis will use the relationship between contributing factors help predict nitrate concentration in areas where there no gauges.
 
 ## Correlation between streamflow and concentration 
 To understand the relationship between streamflow and nitrogen concentration, we calculate the correlation between these two parameters
@@ -62,7 +63,7 @@ The coefficient of determination (R2) is 0.007811081304709219
 
 
 * * *
-# **DISCUSSIONS**
+# **DISCUSSION**
 
 ### Generally weak relationship between all combinations
 
@@ -97,130 +98,24 @@ The coefficient of determination (R2) is 0.007811081304709219
 * Based on these analysis, there is no direct relationship between streamflow, concentration, precipitaton and nitrogen surplus, this can be due to many factors:
   1. Natural events like nitrogen breakdown or nutrient transport undergo several processes and therefore further investigation needs to be done to understand these relationships before anlyzing them. 
     - An example is instead of analyzing total streamflow, it would be best to separate the flow into a quickly responding part and slowly responding part. The quickly responding aspect of the flow that follows immediately after precipitation, this flow is runoff and tile drainage flow and the slowly responding part is baseflow that responds very slowly ater precipitation ( This means it can take couple of months or years before it drains to the surface water)  
+
+* This also shows why it is improtant for agricultural engineers/scientist/researchers to understand data science and machine learning so that we can provide meaningful insights to model outputs/results.
  
 
+* * *
+# **Future Directions**
+* Investigate factors that influence nutrient transport from agricultural lands to surface water bodies
+    -Examples are, tile drainage, point sources contribution.
+    
+* Redo analysis for specific period of the year instead of monthly and yearly average
+    - Periods after fertilizer application, periods after harvesting.
 
 
-
-
-
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
 
 * * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://img-aws.ehowcdn.com/877x500p/s3-us-west-1.amazonaws.com/contentlab.studiod/getty/f156a8535b7844d3996689ec37292370.jpg?type=webp)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# The data and python code used for this analysis as well as the website used to display these findings can be downloaded in either tar or zip formats at the top of the page. 
+### Python code can easily be replicated if you have streamflow, concenration, precipitation and nitrogen surplus data.
 
 
-### Definition lists can be used with HTML syntax.
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
