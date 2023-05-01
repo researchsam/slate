@@ -64,7 +64,7 @@ The coefficient of determination (R2) is 0.007811081304709219
 * * *
 # **DISCUSSIONS**
 
-## Generally weak relationship between all combinations
+### Generally weak relationship between all combinations
 
 * Correlation does not equal causation
 
@@ -89,7 +89,19 @@ The coefficient of determination (R2) is 0.007811081304709219
 ## GROUPING INTO HIGH AND LOW CONCENTRATION
 <img src="cluster.png" alt="Cluster image">
 
-### The high spots are locations that have nitrate concentration greater than 10mg/L. This is usefull to easily indentify hotspot areas for decision/polycy makers to takle instead of analyzing the entire locations again, this process is important as it saves time in reusability of the code. 
+### The high spots are locations that have nitrate concentration greater than 10mg/L. This is usefull to easily indentify hotspot areas for decision/policy makers to takle instead of analyzing the entire locations again, this process is important as it saves time in reusability of the code. 
+
+
+* * *
+# **Conclusions**
+* Based on these analysis, there is no direct relationship between streamflow, concentration, precipitaton and nitrogen surplus, this can be due to many factors:
+  1. Natural events like nitrogen breakdown or nutrient transport undergo several processes and therefore further investigation needs to be done to understand these relationships before anlyzing them. 
+    - An example is instead of analyzing total streamflow, it would be best to separate the flow into a quickly responding part and slowly responding part. The quickly responding aspect of the flow that follows immediately after precipitation, this flow is runoff and tile drainage flow and the slowly responding part is baseflow that responds very slowly ater precipitation ( This means it can take couple of months or years before it drains to the surface water)  
+ 
+
+
+
+
 
 
 
